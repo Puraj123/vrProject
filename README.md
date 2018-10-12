@@ -2,10 +2,10 @@
 This Cops and Robbers game was developed by Ambitious Ambition Team at George Brown College,created in partial fulfillment of the Course Game2023 : Game Engine II
 
 ## Team Members
-* **Puraj Desai** - https://github.com/puraj123
-* **Leron Bergelson** - https://github.com/LeronBergelson
-* **Jordan James** - https://github.com/Benefit999
-* **Emmanuela Sklarzyk** - https://github.com/EmanuelaSk
+* **Puraj Desai** - [Puraj Desai](https://github.com/puraj123)
+* **Leron Bergelson** - [Leron Bergelson](https://github.com/LeronBergelson)
+* **Jordan James** - [Jordan James](https://github.com/Benefit999)
+* **Emmanuela Sklarzyk** - [Emmanuela Sklarzyk](https://github.com/EmanuelaSk)
 * **Alexis Boisvert-Fontaine**
 * **Victor Skierski**
 
